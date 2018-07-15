@@ -1,0 +1,36 @@
+.background{
+    background-color: #004040;
+}
+
+.container{
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #003030;
+    height: max-content;
+}
+
+#logo{
+    margin: auto;
+    background-image: url("images/logo.png");
+    height: 100px;
+    width: 100px;
+}
+
+#logo:hover{
+    margin: auto;
+    background-image: url("images/logo-hover.png")
+}
+
+.header{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    color: #aabbff;
+    text-align: center;
+}
+
+.sub-header{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: #aabbff;
+    text-align: center;
+}
